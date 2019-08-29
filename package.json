@@ -1,0 +1,17 @@
+{
+  "name": "mobpay",
+  "version": "1.0.0",
+  "description": "A library for card and mobile payments by Interswitch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mobpay",
+    "mpesa",
+    "card",
+    "equitel"
+  ],
+  "author": "Allan Bikundo",
+  "license": "ISC"
+}
